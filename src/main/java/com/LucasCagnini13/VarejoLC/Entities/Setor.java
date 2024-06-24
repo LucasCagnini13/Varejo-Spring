@@ -1,11 +1,19 @@
+/*
 package com.LucasCagnini13.VarejoLC.Entities;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+
+import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 
 @Entity
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@EqualsAndHashCode
+@Table(name = "setor")
 public class Setor {
 
     @Id
@@ -14,3 +22,4 @@ public class Setor {
     private String nome;
 
 }
+*/

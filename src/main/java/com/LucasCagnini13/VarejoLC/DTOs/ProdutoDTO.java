@@ -1,2 +1,7 @@
-package com.LucasCagnini13.VarejoLC.DTOs;public class ProdutoDTO {
+package com.LucasCagnini13.VarejoLC.DTOs;
+
+public class ProdutoDTO {
+
+
+
 }

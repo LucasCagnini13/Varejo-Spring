@@ -1,3 +1,5 @@
+/*
+
 package com.LucasCagnini13.VarejoLC.Entities;
 
 import jakarta.persistence.Entity;
@@ -23,4 +25,4 @@ public class Usuario {
     private String senha;
 
 }
-
+*/

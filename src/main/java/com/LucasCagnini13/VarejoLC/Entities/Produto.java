@@ -18,6 +18,7 @@ public class Produto {
     private String nome;
     private Double valor;
     private Double valorFornecedor;
-    private Fornecedor fornecedor;
+
+//    private Fornecedor fornecedor;
     private Categoria categoria;
 }
